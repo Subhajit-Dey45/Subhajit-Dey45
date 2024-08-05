@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @Subhajit-Dey
-- 👀 I’m interested in ...coding,sports and reading books
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...subhajitdeycr7@gmail.com
-- ⚡ Fun fact: ...
+- 👀 I’m interested in coding,sports and reading books
+- 📫 How to reach me subhajitdeycr7@gmail.com
 
 <!---
 Subhajit-Dey45/Subhajit-Dey45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
